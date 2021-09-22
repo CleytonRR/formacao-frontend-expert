@@ -1,0 +1,28 @@
+.container {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+}
+
+.title {
+  margin-top: 20px;
+  color: white;
+}
+
+.card {
+  background-color: yellow;
+  margin: 10px auto;
+  border-radius: 6px;
+  padding: 10px;
+  width: 450px;
+}
+
+.button {
+  border: none;
+  margin-top: 20px;
+  background-color: white;
+  font-size: 26px;
+  border-radius: 4px;
+  cursor: pointer;
+}
